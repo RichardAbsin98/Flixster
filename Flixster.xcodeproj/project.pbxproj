@@ -132,13 +132,13 @@
 			isa = PBXGroup;
 			children = (
 				9CCC1A8F21E9ABE300A997BB /* AppDelegate.swift */,
+				9C53DA4A21FD4A7C0035CAEA /* MovieDetailsViewController.swift */,
 				9CCC1A9321E9ABE300A997BB /* Main.storyboard */,
 				9CCC1A9621E9ABE300A997BB /* Assets.xcassets */,
 				9CCC1A9821E9ABE300A997BB /* LaunchScreen.storyboard */,
 				9CCC1A9B21E9ABE300A997BB /* Info.plist */,
 				9CCC1ABD21E9ACAD00A997BB /* MoviesViewController.swift */,
 				9CCC1ABF21E9D4C200A997BB /* MovieCell.swift */,
-				9C53DA4A21FD4A7C0035CAEA /* MovieDetailsViewController.swift */,
 			);
 			path = Flixster;
 			sourceTree = "<group>";
