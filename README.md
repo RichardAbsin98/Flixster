@@ -14,7 +14,7 @@
 <img src="https://i.imgur.com/poy4HSU.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Had difficulty setting up the collection view initially.
 
 
 # Flix
